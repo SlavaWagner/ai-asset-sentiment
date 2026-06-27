@@ -33,7 +33,7 @@ function getAsciiLogo() {
     magenta("       ~ ~ ~") + purple("       Google Ads Big Five & Sentiment Scoring"),
     '',
     chalk.bold.magenta('=== ai-asset-sentiment - Psychometric Brand Classifier ==='),
-    chalk.purple('Querying Search RSAs & PMax Text Assets and analyzing target audience fit'),
+    purple('Querying Search RSAs & PMax Text Assets and analyzing target audience fit'),
     chalk.gray('Created via Google Antigravity CLI | 100% License Compliant'),
     ''
   ].join('\n');
