@@ -34,7 +34,7 @@ function getAsciiLogo() {
     '',
     chalk.bold.magenta('=== ai-asset-sentiment - Psychometric Brand Classifier ==='),
     purple('Querying Search RSAs & PMax Text Assets and analyzing target audience fit'),
-    chalk.gray('Created via Google Antigravity CLI | 100% License Compliant'),
+    chalk.gray('Created via Google Antigravity CLI'),
     ''
   ].join('\n');
 }
